@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "houseName": "sameer",
+    "price": "99",
+    "location": "India",
+    "rating": "99",
+    "urll": "/images/house1.png"
+  },
+  {
+    "id": 2,
+    "houseName": "sameer",
+    "price": "99",
+    "location": "India",
+    "rating": "99",
+    "urll": "https://a0.muscache.com/im/pictures/hosting/Hosting-913354713293847677/original/9837b11a-c49b-4a59-b4f3-9b5ad8e7676f.jpeg?aki_policy=xx_large"
+  },
+  {
+    "id": 3,
+    "houseName": "sameer",
+    "price": "99",
+    "location": "america",
+    "rating": "09",
+    "urll": "https://a0.muscache.com/im/pictures/hosting/Hosting-913354713293847677/original/9837b11a-c49b-4a59-b4f3-9b5ad8e7676f.jpeg?aki_policy=xx_large"
+  },
+  {
+    "houseName": "sameer",
+    "price": "99",
+    "location": "america",
+    "rating": "09",
+    "urll": "https://a0.muscache.com/im/pictures/hosting/Hosting-913354713293847677/original/9837b11a-c49b-4a59-b4f3-9b5ad8e7676f.jpeg?aki_policy=xx_large",
+    "id": "0.803908208321021"
+  },
+  {
+    "houseName": "1",
+    "price": "sameer 2",
+    "location": "991",
+    "rating": "India",
+    "urll": "99",
+    "id": "0.609619271527645"
+  },
+  {
+    "houseName": "1",
+    "price": "sameer 2",
+    "location": "991",
+    "rating": "India",
+    "urll": "99",
+    "id": "0.46998385625194405"
+  },
+  {
+    "houseName": "2",
+    "price": "Taufeeq",
+    "location": "992",
+    "rating": "India",
+    "urll": "99",
+    "id": "0.9304300960414984"
+  }
+]
